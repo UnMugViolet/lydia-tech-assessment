@@ -1,8 +1,28 @@
 # Technical assessment react developer
 
-# Render
+# Deployed on prod using Docker
 
 SPA available at : https://lydia.pauljaguin.com
+
+# Run the project
+
+## Dev
+```sh
+npm run dev
+```
+
+## Prod
+
+```sh
+npm run build
+```
+
+## Deploy 
+```sh
+npm run deploy
+```
+
+
 
 # Subject
 
